@@ -1,0 +1,9 @@
+## Interface: 90200
+## Dependencies: HearKitty
+## Version: 1.4
+#	TODO: Choose the name that will display in the AddOns window in World of Warcraft.
+## Title: Hear Kitty: Backwards
+#	TODO: Add a description so people know that this add-on is a Hear Kitty sound pack.
+## Notes: Adds a Backwards sound pack to Hear Kitty.
+
+SoundPack.lua
