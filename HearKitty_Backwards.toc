@@ -1,4 +1,4 @@
-## Interface: 90200
+## Interface: 90205
 ## Dependencies: HearKitty
 ## Version: 1.4
 #	TODO: Choose the name that will display in the AddOns window in World of Warcraft.
