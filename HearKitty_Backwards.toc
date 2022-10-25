@@ -1,6 +1,6 @@
 ## Interface: 100000
 ## Dependencies: HearKitty
-## Version: 1.4
+## Version: 1.5
 #	TODO: Choose the name that will display in the AddOns window in World of Warcraft.
 ## Title: Hear Kitty: Backwards
 #	TODO: Add a description so people know that this add-on is a Hear Kitty sound pack.

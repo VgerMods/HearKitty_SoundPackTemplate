@@ -22,7 +22,7 @@ KittyRegisterSoundPack("Sample_Backwards", {
 	LongSoundDelay = 1, -- the length of your "0" sounds
 
 	-- TODO: Include the paths to your sounds here. Note that your sounds will be in your own sound pack's
-	-- folder, not the HearKitty folder. (This sample just reuses the default Symphony sounds.) Note that it's
+	-- folder, not the HearKitty folder. (This sample just reuses the default Marcato sounds.) Note that it's
 	-- possible to reuse the same sound effect for multiple tones. Your sounds can be in Ogg, MP3, or
 	-- uncompressed WAV format.
 
@@ -31,40 +31,40 @@ KittyRegisterSoundPack("Sample_Backwards", {
 	-- You MUST include the six Combo5 sounds. If you don't have more sounds to use, Hear Kitty 1.9.6 or later
 	-- will reuse sounds from those if you don't define sounds for resources that stack to 3, 4, 6, or 7.
 
-	Combo7StackSound0 = "Interface\\AddOns\\HearKitty\\Symphony\\0.ogg",
-	Combo7StackSound1 = "Interface\\AddOns\\HearKitty\\Symphony\\5.ogg",
-	Combo7StackSound2 = "Interface\\AddOns\\HearKitty\\Symphony\\4.ogg",
-	Combo7StackSound3 = "Interface\\AddOns\\HearKitty\\Symphony\\3.ogg",
-	Combo7StackSound4 = "Interface\\AddOns\\HearKitty\\Symphony\\2.ogg",
-	Combo7StackSound5 = "Interface\\AddOns\\HearKitty\\Symphony\\1.ogg",
-	Combo7StackSound6 = "Interface\\AddOns\\HearKitty\\Symphony\\2.ogg",
-	Combo7StackSound7 = "Interface\\AddOns\\HearKitty\\Symphony\\1.ogg",
+	Combo7StackSound0 = "Interface\\AddOns\\HearKitty\\Marcato\\0.ogg",
+	Combo7StackSound1 = "Interface\\AddOns\\HearKitty\\Marcato\\5.ogg",
+	Combo7StackSound2 = "Interface\\AddOns\\HearKitty\\Marcato\\4a.ogg",
+	Combo7StackSound3 = "Interface\\AddOns\\HearKitty\\Marcato\\4.ogg",
+	Combo7StackSound4 = "Interface\\AddOns\\HearKitty\\Marcato\\3a.ogg",
+	Combo7StackSound5 = "Interface\\AddOns\\HearKitty\\Marcato\\3.ogg",
+	Combo7StackSound6 = "Interface\\AddOns\\HearKitty\\Marcato\\2.ogg",
+	Combo7StackSound7 = "Interface\\AddOns\\HearKitty\\Marcato\\1.ogg",
 
-	Combo6StackSound0 = "Interface\\AddOns\\HearKitty\\Symphony\\0.ogg",
-	Combo6StackSound1 = "Interface\\AddOns\\HearKitty\\Symphony\\5.ogg",
-	Combo6StackSound2 = "Interface\\AddOns\\HearKitty\\Symphony\\4.ogg",
-	Combo6StackSound3 = "Interface\\AddOns\\HearKitty\\Symphony\\3.ogg",
-	Combo6StackSound4 = "Interface\\AddOns\\HearKitty\\Symphony\\2.ogg",
-	Combo6StackSound5 = "Interface\\AddOns\\HearKitty\\Symphony\\1.ogg",
-	Combo6StackSound6 = "Interface\\AddOns\\HearKitty\\Symphony\\2.ogg",
+	Combo6StackSound0 = "Interface\\AddOns\\HearKitty\\Marcato\\0.ogg",
+	Combo6StackSound1 = "Interface\\AddOns\\HearKitty\\Marcato\\5.ogg",
+	Combo6StackSound2 = "Interface\\AddOns\\HearKitty\\Marcato\\4.ogg",
+	Combo6StackSound3 = "Interface\\AddOns\\HearKitty\\Marcato\\3a.ogg",
+	Combo6StackSound4 = "Interface\\AddOns\\HearKitty\\Marcato\\3.ogg",
+	Combo6StackSound5 = "Interface\\AddOns\\HearKitty\\Marcato\\2.ogg",
+	Combo6StackSound6 = "Interface\\AddOns\\HearKitty\\Marcato\\1.ogg",
 
-	Combo5StackSound0 = "Interface\\AddOns\\HearKitty\\Symphony\\0.ogg",
-	Combo5StackSound1 = "Interface\\AddOns\\HearKitty\\Symphony\\5.ogg",
-	Combo5StackSound2 = "Interface\\AddOns\\HearKitty\\Symphony\\4.ogg",
-	Combo5StackSound3 = "Interface\\AddOns\\HearKitty\\Symphony\\3.ogg",
-	Combo5StackSound4 = "Interface\\AddOns\\HearKitty\\Symphony\\2.ogg",
-	Combo5StackSound5 = "Interface\\AddOns\\HearKitty\\Symphony\\1.ogg",
+	Combo5StackSound0 = "Interface\\AddOns\\HearKitty\\Marcato\\0.ogg",
+	Combo5StackSound1 = "Interface\\AddOns\\HearKitty\\Marcato\\5.ogg",
+	Combo5StackSound2 = "Interface\\AddOns\\HearKitty\\Marcato\\4.ogg",
+	Combo5StackSound3 = "Interface\\AddOns\\HearKitty\\Marcato\\3.ogg",
+	Combo5StackSound4 = "Interface\\AddOns\\HearKitty\\Marcato\\2.ogg",
+	Combo5StackSound5 = "Interface\\AddOns\\HearKitty\\Marcato\\1.ogg",
 
-	Combo4StackSound0 = "Interface\\AddOns\\HearKitty\\Symphony\\0.ogg",
-	Combo4StackSound1 = "Interface\\AddOns\\HearKitty\\Symphony\\5.ogg",
-	Combo4StackSound2 = "Interface\\AddOns\\HearKitty\\Symphony\\4.ogg",
-	Combo4StackSound3 = "Interface\\AddOns\\HearKitty\\Symphony\\2.ogg",
-	Combo4StackSound4 = "Interface\\AddOns\\HearKitty\\Symphony\\1.ogg",
+	Combo4StackSound0 = "Interface\\AddOns\\HearKitty\\Marcato\\0.ogg",
+	Combo4StackSound1 = "Interface\\AddOns\\HearKitty\\Marcato\\5.ogg",
+	Combo4StackSound2 = "Interface\\AddOns\\HearKitty\\Marcato\\4.ogg",
+	Combo4StackSound3 = "Interface\\AddOns\\HearKitty\\Marcato\\3.ogg",
+	Combo4StackSound4 = "Interface\\AddOns\\HearKitty\\Marcato\\1.ogg",
 
-	Combo3StackSound0 = "Interface\\AddOns\\HearKitty\\Symphony\\0.ogg",
-	Combo3StackSound1 = "Interface\\AddOns\\HearKitty\\Symphony\\5.ogg",
-	Combo3StackSound2 = "Interface\\AddOns\\HearKitty\\Symphony\\4.ogg",
-	Combo3StackSound3 = "Interface\\AddOns\\HearKitty\\Symphony\\3.ogg",
+	Combo3StackSound0 = "Interface\\AddOns\\HearKitty\\Marcato\\0.ogg",
+	Combo3StackSound1 = "Interface\\AddOns\\HearKitty\\Marcato\\5.ogg",
+	Combo3StackSound2 = "Interface\\AddOns\\HearKitty\\Marcato\\4.ogg",
+	Combo3StackSound3 = "Interface\\AddOns\\HearKitty\\Marcato\\2.ogg",
 })
 
 end
